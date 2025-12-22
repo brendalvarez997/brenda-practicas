@@ -1,5 +1,5 @@
 # brenda-practicas
 Primer repo creado en github
 
-##descripcion
+## descripcion
 Este es un repo, creado con fines de practicas
